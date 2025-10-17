@@ -13,7 +13,6 @@ namespace TodoListApp.Services
 
         public List<TodoItem> LoadTodos()
         {
-
             try
             {
                 if (File.Exists(DATA_FILE))

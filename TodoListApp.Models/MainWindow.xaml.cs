@@ -8,7 +8,7 @@ namespace TodoListApp
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new MainViewModel();
+           
         }
     }
 }

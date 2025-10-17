@@ -5,6 +5,7 @@ namespace TodoListApp
 {
     public partial class EditTaskWindow : Window
     {
+
         public TodoItem Task { get; set; }
 
         public EditTaskWindow(TodoItem task)

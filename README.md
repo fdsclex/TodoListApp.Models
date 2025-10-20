@@ -9,7 +9,7 @@
 
 ---
 <img width="780" height="584" alt="image" src="https://github.com/user-attachments/assets/1bb64686-55c2-42f7-b765-f0fc0fcc640f" />
-Добавили ту ду лист
+Добавили ту ду
 
 ---
 <img width="379" height="289" alt="image" src="https://github.com/user-attachments/assets/96a6169f-ccc7-4c8f-9730-dc89e05787d4" />

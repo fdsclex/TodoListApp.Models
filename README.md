@@ -4,8 +4,9 @@
 ## Взяли 1 вариант.
 ## Скриншоты работы программы представлены ниже.
 ---
-<img width="768" height="581" alt="image" src="https://github.com/user-attachments/assets/7e840c02-3014-4134-baf8-9a20983f11fd" />
-Главное окно
+![тут должна быть картинка того, как оно считает](https://github.com/user-attachments/assets/7e840c02-3014-4134-baf8-9a20983f11fd)
+> **Главное окно**
+---
 
 ---
 <img width="780" height="584" alt="image" src="https://github.com/user-attachments/assets/1bb64686-55c2-42f7-b765-f0fc0fcc640f" />

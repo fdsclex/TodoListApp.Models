@@ -9,21 +9,25 @@
 ---
 
 ---
-<img width="780" height="584" alt="image" src="https://github.com/user-attachments/assets/1bb64686-55c2-42f7-b765-f0fc0fcc640f" />
-Добавили ту ду
+![тут должна быть картинка того, как оно считает](https://github.com/user-attachments/assets/1bb64686-55c2-42f7-b765-f0fc0fcc640f)
+> **Добавили ту ду**
+---
 
 ---
-<img width="379" height="289" alt="image" src="https://github.com/user-attachments/assets/96a6169f-ccc7-4c8f-9730-dc89e05787d4" />
-Отредактировали ту ду
+![тут должна быть картинка того, как оно считает](https://github.com/user-attachments/assets/96a6169f-ccc7-4c8f-9730-dc89e05787d4)
+> **Отредактировали ту ду**
+---
 
 ---
-<img width="775" height="583" alt="image" src="https://github.com/user-attachments/assets/6758c534-bae3-4dfe-a914-95dede40967e" />
-Новый ту ду
+![тут должна быть картинка того, как оно считает](https://github.com/user-attachments/assets/6758c534-bae3-4dfe-a914-95dede40967e)
+> **Новый ту ду**
+---
 
 ---
-<img width="771" height="583" alt="image" src="https://github.com/user-attachments/assets/7924540d-cd02-49c8-8c05-a1f63a330b2f" />
-Выполнили ту ду
+![тут должна быть картинка того, как оно считает](https://github.com/user-attachments/assets/7924540d-cd02-49c8-8c05-a1f63a330b2f)
+> **Выполнили ту ду**
+---
 
 ---
-<img width="777" height="583" alt="image" src="https://github.com/user-attachments/assets/b83be53c-e459-4215-bdb7-1ab04e1d9b60" />
-Удаляем ту ду
+![тут должна быть картинка того, как оно считает](https://github.com/user-attachments/assets/b83be53c-e459-4215-bdb7-1ab04e1d9b60)
+> **Удаляем ту ду**
